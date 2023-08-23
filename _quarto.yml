@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Wednesday Night Cookbook"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  page-footer: 
+    left: "Made with love by Chantal Nguyen."
+
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    toc: true
+    header-includes: |
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">
+
+link-citations: true
+mainfont: 'IBM Plex Sans'
+
