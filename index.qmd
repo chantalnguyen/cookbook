@@ -43,7 +43,7 @@ format: html
 
 ## Arayes
 
-![](arayes.png){width=50%}
+![](img/arayes.png){width=50%}
 
 ### Arayes
 
@@ -98,7 +98,7 @@ Adapted from [Natasha's Baking](https://natashasbaking.com/quick-pita-bread/).
 
 After a somewhat disappointing Arkansas bibimbap experience, we made our own. 
 
-![](bibimbap.png)
+![](img/bibimbap.png)
 
 ### Bibimbap
 
@@ -149,7 +149,7 @@ After a somewhat disappointing Arkansas bibimbap experience, we made our own.
 
 ## Piñon
 
-![](pinon.png)
+![](img/pinon.png)
 
 ### Piñon
 
@@ -185,7 +185,7 @@ After a somewhat disappointing Arkansas bibimbap experience, we made our own.
 
 ### Broccolini, Boursin, and Belgian endive galette
 
-![](broctart.png)
+![](img/broctart.png)
 
 #### Ingredients:
 - 180 g flour
@@ -216,7 +216,7 @@ After a somewhat disappointing Arkansas bibimbap experience, we made our own.
 
 Adapted from [Bon Appétit](https://www.bonappetit.com/recipe/pan-seared-scallops-with-chorizo-and-corn).
 
-![](scallops.png)
+![](img/scallops.png)
 
 #### Ingredients:
 
@@ -245,7 +245,7 @@ Adapted from [Bon Appétit](https://www.bonappetit.com/recipe/pan-seared-scallop
 
 2023 is the Year of the Custard. Adapted from [Serious Eats](https://www.seriouseats.com/creme-brulee-recipe-7107199).
 
-![](cremebrulee.jpeg){width=50%}
+![](img/cremebrulee.jpeg){width=50%}
 
 #### Ingredients:
 - 1 c heavy cream
@@ -270,7 +270,7 @@ Adapted from [Bon Appétit](https://www.bonappetit.com/recipe/pan-seared-scallop
 
 ## Pizza!
 
-![](pizza.png)
+![](img/pizza.png)
 
 ### Sausage and hot pepper pizza
 
@@ -361,7 +361,7 @@ Adapted from John Carruthers's recipe via [Wordloaf](https://newsletter.wordloaf
 # Spring
 ## Moules Frites
 
-![](mussels.png)
+![](img/mussels.png)
 
 ### Moules marinières
 
@@ -421,7 +421,7 @@ Adapted from John Carruthers's recipe via [Wordloaf](https://newsletter.wordloaf
 
 ## Tortellini in Brodo
 
-![she tort on my loni until I?](tortellini.jpg)
+![she tort on my loni until I?](img/tortellini.jpg)
 
 ### Tortellini in brodo
 
@@ -517,7 +517,7 @@ Adapted from [Serious Eats](#https://www.seriouseats.com/risotto-alla-milanese-s
 
 ## Chicken Cutlet Sandwich
 
-![The sandwich of dreams!!!](chickencutlet.png)
+![The sandwich of dreams!!!](img/chickencutlet.png)
 
 ### Chicken cutlet sandwiches
 
@@ -613,7 +613,7 @@ For the dough:
 
 The prompt for this dinner was "deluxe corn dogs": smoked and rubbed sausage with a batter that actually tastes of cornbread. The batter recipe is adapted from [Natasha's Kitchen](https://natashaskitchen.com/corn-dogs-recipe/).
 
-![](corndog.png)
+![](img/corndog.png)
 
 #### Ingredients:
 
@@ -674,7 +674,7 @@ Adapted from [Bon Appétit](https://www.bonappetit.com/recipe/korean-potato-sala
 
 ## Tinned Fish Extravaganza
 
-![NOT GIRL DINNER](sardines.png)
+![NOT GIRL DINNER](img/sardines.png)
 
 ### Tinned fish and accoutrements
 
@@ -738,7 +738,7 @@ Adapted from [Bon Appétit](https://www.bonappetit.com/recipe/korean-potato-sala
 
 This came about because one day I entered the hallway of my building and it smelled so intensely like a Chinese restaurant that I was immediately overtaken by an insatiable craving for Chinese seafood banquet hall specialties. Serve with a steaming pot of jasmine rice!!
 
-![](saltnpepper.png)
+![](img/saltnpepper.png)
 
 ### Salt & pepper shrimp
 Adapted from [the Woks of Life](https://thewoksoflife.com/salt-and-pepper-shrimp/#recipe).
@@ -821,7 +821,7 @@ Sorry, I never measure this :/
 
 The impetus for this menu was Dan Souza's warmly written [Grub Street Diet](https://www.grubstreet.com/2022/10/dan-souza-americas-test-kitchen-grub-street-diet.html). His description of one particular dinner was so evocative, I had to make the exact same thing.
 
-![](adobo.png)
+![](img/adobo.png)
 
 ### Chicken adobo
 
@@ -879,7 +879,7 @@ Adapted from [Angela Dimayuga](https://tamronhallshow.com/blog/angela-dimayugas-
 
 ## Butternut Squash Ravioli
 
-![](ravioli.png)
+![](img/ravioli.png)
 
 ### Butternut squash ravioli with sage brown butter
 
@@ -933,7 +933,7 @@ For the brown butter:
 
 ## Crying Tiger Steak
 
-![](cryingtiger.png)
+![](img/cryingtiger.png)
 
 ### Crying tiger steak
 
@@ -988,7 +988,7 @@ For the sauce:
 
 ## Harissa Shrimp
 
-![](harissashrimp.png)
+![](img/harissashrimp.png)
 
 ### Harissa shrimp
 
@@ -1118,7 +1118,7 @@ Can also be scaled up and batched as a large-format cocktail using a 1.75L handl
 
 ## Rhubarb Aperitivo
 
-![Which doesn't taste of rhubarb, but whatever.](aperitivo.png)
+![Which doesn't taste of rhubarb, but whatever.](img/aperitivo.png)
 
 #### Ingredients:
 - 750 mL Everclear
